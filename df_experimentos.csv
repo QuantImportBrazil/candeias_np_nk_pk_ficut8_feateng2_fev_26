@@ -1,0 +1,25 @@
+experiment_id,date_max,n_repet,random_state,extra_sufixo_mark,fi_cut,n_fib,corte_fib,n_fib_menor,md_center_f_i,mf_center_f_i,mss_center_f_i,msl_center_f_i,md_center_p_i,mf_center_p_i,mss_center_p_i,msl_center_p_i,tscv,n_iter_t_filter,n_iter_t_pred,amp,metricas
+644d995a-3e56-4ae7-b675-ee357dfe7538,2026-01-01,15,0,_ficut8_feateng2_fev_26,0.8,20,2,9,6,9,2,0,7,3,6,6,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=5, test_size=None)",17,17,1,"   rmse  rmse_lr   r2  r2_lr  acc  CO_MES       CO_GEO    CO_PRDT
+0   9.8     11.2 -0.2   -0.6  0.9  02~mes  2906501~geo  3105~prdt"
+ee225cf4-a86b-4121-a8c2-38e88076fc4b,2026-01-01,15,0,_ficut8_feateng2_fev_26,0.8,20,2,9,2,15,3,1,9,6,2,0,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=5, test_size=None)",17,17,1,"   rmse  rmse_lr   r2  r2_lr  acc  CO_MES       CO_GEO    CO_PRDT
+0  13.2     18.9  0.4   -0.3  1.0  03~mes  2906501~geo  3105~prdt"
+ba5b21aa-4600-4b51-84e9-a192eb08dfcf,2026-01-01,15,0,_ficut8_feateng2_fev_26,0.8,20,2,9,6,15,2,3,7,15,5,1,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=5, test_size=None)",17,17,1,"   rmse  rmse_lr   r2  r2_lr  acc  CO_MES       CO_GEO    CO_PRDT
+0  15.6     14.2  0.4    0.5  1.0  04~mes  2906501~geo  3105~prdt"
+b04a02d0-4ffe-435f-aa7e-b09e85794cd0,2026-01-01,15,0,_ficut8_feateng2_fev_26,0.8,20,2,9,9,17,4,3,11,16,4,1,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=5, test_size=None)",17,17,1,"   rmse  rmse_lr   r2  r2_lr  acc  CO_MES       CO_GEO    CO_PRDT
+0   9.5     13.6  0.3   -0.4  1.0  05~mes  2906501~geo  3105~prdt"
+63b1165f-8705-48c2-a67f-54ce0a8901d5,2026-01-01,15,0,_ficut8_feateng2_fev_26,0.8,20,2,9,15,16,3,1,15,12,2,2,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=5, test_size=None)",17,17,1,"   rmse  rmse_lr   r2  r2_lr  acc  CO_MES       CO_GEO    CO_PRDT
+0  12.8     14.7  0.1   -0.2  1.0  06~mes  2906501~geo  3105~prdt"
+85cbcd19-9b9b-4f7d-8ffd-38b65b69f421,2026-01-01,15,0,_ficut8_feateng2_fev_26,0.8,20,2,9,9,14,2,2,10,14,5,1,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=5, test_size=None)",17,17,1,"   rmse  rmse_lr   r2  r2_lr  acc  CO_MES       CO_GEO    CO_PRDT
+0  11.3     19.1  0.6   -0.3  1.0  07~mes  2906501~geo  3105~prdt"
+11044dbc-077e-44df-88ab-1744c9208379,2026-01-01,15,0,_ficut8_feateng2_fev_26,0.8,20,2,9,1,11,5,3,12,11,5,2,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=5, test_size=None)",17,17,1,"   rmse  rmse_lr   r2  r2_lr  acc  CO_MES       CO_GEO    CO_PRDT
+0  16.0     17.4  0.1   -0.0  1.0  08~mes  2906501~geo  3105~prdt"
+8686e2ea-c539-4659-a6aa-49354894b58e,2026-01-01,15,0,_ficut8_feateng2_fev_26,0.8,20,2,9,8,9,2,2,13,7,2,2,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=5, test_size=None)",17,17,1,"   rmse  rmse_lr   r2  r2_lr  acc  CO_MES       CO_GEO    CO_PRDT
+0  11.7     12.7 -0.4   -0.7  1.0  09~mes  2906501~geo  3105~prdt"
+0ae68b4f-e6a1-4695-93d7-fdd8ea83a6fe,2026-01-01,15,0,_ficut8_feateng2_fev_26,0.8,20,2,9,10,6,2,2,11,14,2,1,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=5, test_size=None)",17,17,1,"   rmse  rmse_lr   r2  r2_lr  acc  CO_MES       CO_GEO    CO_PRDT
+0  11.1     13.8 -0.1   -0.7  1.0  10~mes  2906501~geo  3105~prdt"
+aa0e9409-bb5d-4873-a766-6af022afedec,2026-01-01,15,0,_ficut8_feateng2_fev_26,0.8,20,2,9,11,14,5,1,6,7,2,0,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=5, test_size=None)",17,17,1,"   rmse  rmse_lr   r2  r2_lr  acc  CO_MES       CO_GEO    CO_PRDT
+0  13.4     15.4 -0.0   -0.3  0.9  11~mes  2906501~geo  3105~prdt"
+1359de2e-a76c-43d8-b366-f3e94a0ce9cd,2026-01-01,15,0,_ficut8_feateng2_fev_26,0.8,20,2,9,16,15,1,0,5,4,1,0,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=4, test_size=None)",17,17,1,"   rmse  rmse_lr   r2  r2_lr  acc  CO_MES       CO_GEO    CO_PRDT
+0  10.4     12.7  0.1   -0.4  1.0  12~mes  2906501~geo  3105~prdt"
+98df2789-4265-4523-b758-93747f7e21d9,2026-01-01,15,0,_ficut8_feateng2_fev_26,0.8,20,2,9,15,11,2,2,8,13,5,1,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=5, test_size=None)",17,17,1,"   rmse  rmse_lr   r2  r2_lr  acc  CO_MES       CO_GEO    CO_PRDT
+0  18.9     23.0 -0.1   -0.6  0.9  01~mes  2906501~geo  3105~prdt"

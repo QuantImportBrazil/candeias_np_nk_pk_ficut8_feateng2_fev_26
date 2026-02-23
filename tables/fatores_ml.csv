@@ -1,0 +1,69 @@
+Mês previsto,var_target,Fator influenciador
+01,kt,ANO - Evolução no tempo
+01,kt,"Mês:01~mes - UF:PE -Inseti, herbi, fungicida - peso"
+01,kt,Mês:11~mes - UF:RS -Soja - peso
+01,kt,
+01,oc,ANO - Evolução no tempo
+01,oc,chuvas-Mês: 06 - Local: PR
+02,kt,ANO - Evolução no tempo
+02,kt,Mês:05~mes - UF:MS -Adubos nitrogenados - peso
+02,kt,
+02,oc,ANO - Evolução no tempo
+02,oc,chuvas-Mês: 07 - Local: BA
+03,kt,Mês:04~mes - UF:SP -Óleos de petróleo - peso
+03,kt,Mês:05~mes - UF:MT -Algodão - peso
+03,kt,Mês:07~mes - UF:MS -Pasta de madeira - peso
+03,kt,chuvas-Mês: 12 - Local: MG
+03,kt,
+03,oc,ANO - Evolução no tempo
+03,oc,chuvas-Mês: 11 - Local: BA
+04,kt,Mês:07~mes - UF:SC -Tabaco - peso
+04,kt,"Mês:11~mes - UF:PR -Inseti, herbi, fungicida - relação troca"
+04,kt,"Mês:12~mes - UF:CE -Inseti, herbi, fungicida - relação troca"
+04,kt,Mês:12~mes - UF:SC -Adubos nitrogenados - peso
+04,kt,spot - Mês: 05~mes:  DAP
+04,oc,ANO - Evolução no tempo
+04,oc,Mês:12~mes - UF:MS -Açúcares - ocorrência
+04,oc,chuvas-Mês: 02 - Local: BA
+04,oc,chuvas-Mês: 03 - Local: BA
+05,kt,ANO - Evolução no tempo
+05,kt,Mês:05~mes - UF:PR -Fosfatos de cálcio naturais - peso
+05,kt,Mês:09~mes - UF:CE -Óleos de petróleo - peso
+05,oc,Mês:02~mes - UF:ES -Adubos NP ou NK ou PK - ocorrência
+05,oc,Mês:11~mes - UF:RJ -Adubos potássicos - ocorrência
+05,oc,chuvas-Mês: 02 - Local: RS
+05,oc,chuvas-Mês: 09 - Local: BA
+05,oc,chuvas-Mês: 11 - Local: AL
+06,kt,ANO - Evolução no tempo
+06,kt,Mês:07~mes - UF:MS -Adubos NP ou NK ou PK - peso
+06,oc,ANO - Evolução no tempo
+07,kt,ANO - Evolução no tempo
+07,kt,Mês:06~mes - UF:GO -Adubos potássicos - peso
+07,oc,ANO - Evolução no tempo
+08,kt,ANO - Evolução no tempo
+08,kt,"Mês:01~mes - UF:RS -Inseti, herbi, fungicida - peso"
+08,oc,chuvas-Mês: 01 - Local: BA
+08,oc,chuvas-Mês: 01 - Local: MG
+08,oc,chuvas-Mês: 02 - Local: RS
+08,oc,chuvas-Mês: 05 - Local: MT
+08,oc,chuvas-Mês: 12 - Local: BA
+09,kt,ANO - Evolução no tempo
+09,kt,Mês:11~mes - UF:GO -Adubos potássicos - peso
+09,oc,ANO - Evolução no tempo
+09,oc,chuvas-Mês: 05 - Local: PA
+10,kt,ANO - Evolução no tempo
+10,kt,chuvas-Mês: 06 - Local: MG
+10,kt,chuvas-Mês: 06 - Local: PR
+10,oc,ANO - Evolução no tempo
+10,oc,Mês:11~mes - UF:MT -Milho - ocorrência
+10,oc,chuvas-Mês: 02 - Local: RS
+10,oc,chuvas-Mês: 09 - Local: BA
+10,oc,chuvas-Mês: 09 - Local: RS
+11,kt,ANO - Evolução no tempo
+11,kt,"Mês:02~mes - UF:PE -Inseti, herbi, fungicida - peso"
+11,oc,ANO - Evolução no tempo
+11,oc,Mês:07~mes - UF:BA -Fosfatos de cálcio naturais - ocorrência
+12,kt,ANO - Evolução no tempo
+12,kt,Mês:12~mes - UF:GO -Adubos potássicos - peso
+12,oc,ANO - Evolução no tempo
+12,oc,Mês:04~mes - UF:MG -Soja - ocorrência
